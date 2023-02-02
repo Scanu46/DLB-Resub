@@ -190,3 +190,41 @@ h3 {
       width: 100%;
     }
   }
+  .menu {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+  }
+  
+  h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 0;
+    width: 60%;
+  }
+.menu img{
+    width: 50%;
+    height: auto;
+    margin: 20px;
+}
